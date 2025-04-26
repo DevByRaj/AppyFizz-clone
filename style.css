@@ -175,6 +175,7 @@ p {
     text-decoration: none;
 }
 .foot-3 a:hover{
+    /* font-size: 16px; */ 
     text-decoration: underline;
    color: rgba(255, 0, 0, 0.86);
 }
